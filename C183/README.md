@@ -1,5 +1,5 @@
 # Projects
 **Express Emotions** is the emotions<br />
 <br />
-**_Download these and open them one by one on the Python Microbit website_**
+**_Drag the hex file from your Downloads folder to the MICROBIT drive._**
 
